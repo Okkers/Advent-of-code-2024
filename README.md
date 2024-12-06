@@ -1,4 +1,5 @@
 # Advent-of-code-2024
+![alt text](https://bitsnpiecesforkids.com/wp-content/uploads/2020/12/Coding-Puzzle-1080x675.jpg)
 
 Welcome to my solutions for the 2024 Advent of code! 
 
