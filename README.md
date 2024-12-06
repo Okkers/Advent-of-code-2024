@@ -4,7 +4,7 @@
 Welcome to my solutions for the 2024 Advent of code! 
 
 ### Requirements 
-This reposiory was made with the sole ofcus of using numpy - any recent version will suffice. If you don't have numpy installed, create a 
+This repository was made with the one requirement of only using Numpy - any recent version will suffice. If you don't have numpy installed, create a 
 virtual environment:
 ```
 python -m venv NAMEOFVENV
