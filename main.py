@@ -3,14 +3,16 @@ from days import (solve_day1,
                   solve_day2,
                   solve_day3,
                   solve_day4,
-                  solve_day5)
+                  solve_day5,
+                  solve_day6)
 
 function_map = {
     1: solve_day1,
     2: solve_day2,
     3: solve_day3,
     4: solve_day4,
-    5: solve_day5
+    5: solve_day5,
+    6: solve_day6
 }
 
 def find_solution(day: int, *args, **kwargs):
@@ -24,7 +26,6 @@ current_dir = os.path.dirname(__file__)
 print("------------------------------------------------------------------------")
 print("Welcome to the Advent of Code 2024 solver!")
 inp = input("Please enter the day (int) you would like to find the solution for:\n------------------------------------------------------------------------")
-
 
 inp_int = int(inp)
 inp = inp.strip()
