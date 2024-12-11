@@ -6,17 +6,23 @@ from days import (solve_day1,
                   solve_day5,
                   solve_day6,
                   solve_day7,
-                  solve_day8)
+                  solve_day8,
+                  solve_day9,
+                  solve_day10,
+                  solve_day11)
 
 function_map = {
-    1: solve_day1,
-    2: solve_day2,
-    3: solve_day3,
-    4: solve_day4,
-    5: solve_day5,
-    6: solve_day6,
-    7: solve_day7,
-    8: solve_day8
+     1: solve_day1,
+     2: solve_day2,
+     3: solve_day3,
+     4: solve_day4,
+     5: solve_day5,
+     6: solve_day6,
+     7: solve_day7,
+     8: solve_day8,
+     9: solve_day9,
+    10: solve_day10,
+    11: solve_day11
 }
 
 def find_solution(day: int, *args, **kwargs):
