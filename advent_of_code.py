@@ -9,7 +9,8 @@ from days import (solve_day1,
                   solve_day8,
                   solve_day9,
                   solve_day10,
-                  solve_day11)
+                  solve_day11,
+                  solve_day12)
 
 function_map = {
      1: solve_day1,
@@ -22,7 +23,8 @@ function_map = {
      8: solve_day8,
      9: solve_day9,
     10: solve_day10,
-    11: solve_day11
+    11: solve_day11,
+    12: solve_day12
 }
 
 def find_solution(day: int, *args, **kwargs):
