@@ -16,4 +16,4 @@ pip install numpy
 ```
 ### Usage
 To run the solutions, add your required input.txt into the desired day (i.e. add input for day1 to days/day1/). 
-Then, run ```python main.py``` and input the desired day of solving. 
+Then, run ```python advent_of_code.py``` and input the desired day of solving. 
